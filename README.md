@@ -11,13 +11,15 @@
 | Задание 3 | * |  |
 
 ## Цель работы
-###Установить необходимое программное обеспечение, которое пригодится для создания интеллектуальных моделей на Python. Рассмотреть процесс установки игрового движка Unity для разработки игр.
+### Установить необходимое программное обеспечение, которое пригодится для создания интеллектуальных моделей на Python. Рассмотреть процесс установки игрового движка Unity для разработки игр.
 
 ## Задание 1
-###Написать программу Hello World на Python с запуском в Jupiter Notebook.
+### Написать программу Hello World на Python с запуском в Jupiter Notebook.
+<details>
+<summary>Детали работы</summary>
 
 Код на python:
-
+    
 ```py
 
 print("Hello World")
@@ -27,8 +29,14 @@ print("Hello World")
 <img alt = "Скриншот с jupiter" src = "https://github.com/Vinters565/Data-Analysis/blob/main/изображение_2023-10-03_132455886.png">
 <img alt = "Скриншот с jupiter" src = "https://github.com/Vinters565/Data-Analysis/blob/main/изображение_2023-10-03_132511044.png">
 
+</details>
+
+
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
+
+<details>
+<summary>Детали работы</summary>
 
 Код на C#:
 
@@ -51,8 +59,21 @@ public class Play : MonoBehaviour
 ```
 
 Скриншоты работы:
-<img alt = "Скриншот с Visual Studio" src = "">
+
+<img alt = "Скриншот с Visual Studio" src = "https://github.com/Vinters565/Data-Analysis/blob/main/изображение_2023-10-03_134746393.png">
+
 <img alt = "Скриншот с Unity Engine" src = "https://github.com/Vinters565/Data-Analysis/blob/main/изображение_2023-10-03_132535654.png">
 
+</details>
+
 ## Задание 3
-### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
+### Оформить отчет в виде документации на github (markdown-разметка).
+
+<details>
+<summary>Детали работы</summary>
+    
+Скриншот работы:
+
+<img alt = "Скриншот с GitHub" src = "https://github.com/Vinters565/Data-Analysis/blob/main/изображение_2023-10-03_135409784.png">
+
+</details>
